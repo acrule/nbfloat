@@ -1,0 +1,10 @@
+#toc-wrapper{
+    width: 300px;
+    height: 400px;
+    position: absolute;
+    top: 120px;
+    right: 10px;
+    padding: 10px;
+    background: white;
+    box-shadow: 0px 0px 12px 1px rgba(87, 87, 87, 0.2)
+}
