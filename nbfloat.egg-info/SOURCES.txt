@@ -1,6 +1,0 @@
-nbfloat/__init__.py
-nbfloat.egg-info/PKG-INFO
-nbfloat.egg-info/SOURCES.txt
-nbfloat.egg-info/dependency_links.txt
-nbfloat.egg-info/top_level.txt
-nbfloat/static/main.js
